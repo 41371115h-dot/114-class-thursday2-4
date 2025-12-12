@@ -6,10 +6,10 @@
 
 系級：科技系2年級
 
-- 期末專題名稱: 大富翁
+期末專題名稱: 大富翁
   
-- 組員: 41371106h葉恩瑀 41371115h李嘉欣
+組員: 41371106h葉恩瑀 41371115h李嘉欣
   
-- [YOUTUBE連結](https://www.youtube.com/watch?v=Na2XoXOL83s)
+[YOUTUBE連結](https://www.youtube.com/watch?v=Na2XoXOL83s)
   
 [期末專題 REPO連結](https://github.com/alisonnnnn88/monopoly/tree/main)
